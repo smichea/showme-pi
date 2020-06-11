@@ -31,9 +31,10 @@ reboot the Pi
 sudo reboot
 ```
 
-install i2c-tools
+install i2c-tools and libi2c-dev
 ```
 sudo apt-get install i2c-tools
+sudo apt-get install libi2c-dev
 ```
 
 ## test the installation
